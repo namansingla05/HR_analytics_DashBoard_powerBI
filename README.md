@@ -4,7 +4,7 @@
 
 ## Overview
 
-This Power BI dashboard presents an insightful analysis of employee data across various HR dimensions such as attrition, age group, gender, education, department, and job satisfaction. It enables HR professionals and decision-makers to monitor workforce trends, identify problem areas, and drive strategic initiatives through interactive visualizations.
+This Power BI Dashboard presents an insightful analysis of employee data across various HR dimensions such as attrition, age group, gender, education, department, and job satisfaction. It enables HR professionals and decision-makers to monitor workforce trends, identify problem areas, and drive strategic initiatives through interactive visualizations.
 
 ---
 
